@@ -25,7 +25,7 @@
             <mxPoint x="211" y="381" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NiUTvdazQKt3ztosBD5x-6" value="源码结构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NiUTvdazQKt3ztosBD5x-6" value="源码结构" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="361" y="369" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="NiUTvdazQKt3ztosBD5x-7" value="诈骗手法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -101,10 +101,10 @@
             <mxPoint x="640" y="558" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NiUTvdazQKt3ztosBD5x-23" value="关联图谱聚类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NiUTvdazQKt3ztosBD5x-23" value="关联图谱聚类" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="580" y="478" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NiUTvdazQKt3ztosBD5x-24" value="语义模型判定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NiUTvdazQKt3ztosBD5x-24" value="语义模型判定" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="580" y="558" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NiUTvdazQKt3ztosBD5x-28" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=13;" vertex="1" parent="1">
