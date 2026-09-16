@@ -168,6 +168,17 @@
             <mxPoint y="-19" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="NiUTvdazQKt3ztosBD5x-45" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="835" y="670" as="sourcePoint" />
+            <mxPoint x="1045" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NiUTvdazQKt3ztosBD5x-46" value="传播后联动预警" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="NiUTvdazQKt3ztosBD5x-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
