@@ -117,13 +117,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NiUTvdazQKt3ztosBD5x-31" value="低风险持续观察" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="880" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NiUTvdazQKt3ztosBD5x-32" value="高风险自动封堵" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="880" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NiUTvdazQKt3ztosBD5x-33" value="中风险人工复核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="404" width="120" height="60" as="geometry" />
+          <mxGeometry x="880" y="444" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NiUTvdazQKt3ztosBD5x-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="827" y="428" as="sourcePoint" />
+            <mxPoint x="877" y="378" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
