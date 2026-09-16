@@ -149,7 +149,7 @@
         <mxCell id="NiUTvdazQKt3ztosBD5x-38" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="670" as="sourcePoint" />
-            <mxPoint x="400" y="670" as="targetPoint" />
+            <mxPoint x="500" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NiUTvdazQKt3ztosBD5x-40" value="传播前渠道联审核" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="NiUTvdazQKt3ztosBD5x-38">
@@ -168,7 +168,7 @@
             <mxPoint y="-19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NiUTvdazQKt3ztosBD5x-45" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="NiUTvdazQKt3ztosBD5x-45" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=0.708;exitY=0.897;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="NiUTvdazQKt3ztosBD5x-37">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="835" y="670" as="sourcePoint" />
             <mxPoint x="1045" y="670" as="targetPoint" />
