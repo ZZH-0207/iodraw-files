@@ -25,7 +25,7 @@
             <mxPoint x="200" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NiUTvdazQKt3ztosBD5x-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NiUTvdazQKt3ztosBD5x-6" value="源码结构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="367" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="NiUTvdazQKt3ztosBD5x-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
