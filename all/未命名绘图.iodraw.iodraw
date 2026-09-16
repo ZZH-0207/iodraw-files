@@ -144,11 +144,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NiUTvdazQKt3ztosBD5x-37" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="98" y="260" width="992" height="461" as="geometry" />
+          <mxGeometry x="98" y="260" width="1062" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="NiUTvdazQKt3ztosBD5x-38" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=0.003;exitY=0.896;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="NiUTvdazQKt3ztosBD5x-37">
+        <mxCell id="NiUTvdazQKt3ztosBD5x-38" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="673" as="sourcePoint" />
+            <mxPoint x="130" y="673" as="sourcePoint" />
             <mxPoint x="499" y="673" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -168,10 +168,10 @@
             <mxPoint y="-19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NiUTvdazQKt3ztosBD5x-45" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;entryX=0.999;entryY=0.895;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="NiUTvdazQKt3ztosBD5x-37">
+        <mxCell id="NiUTvdazQKt3ztosBD5x-45" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="802" y="673" as="sourcePoint" />
-            <mxPoint x="1045" y="670" as="targetPoint" />
+            <mxPoint x="1050" y="673" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NiUTvdazQKt3ztosBD5x-46" value="传播后联动预警" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="NiUTvdazQKt3ztosBD5x-45">
