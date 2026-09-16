@@ -8,12 +8,12 @@
           <mxGeometry x="90" y="350" width="380" height="260" as="geometry" />
         </mxCell>
         <mxCell id="NiUTvdazQKt3ztosBD5x-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="370" width="120" height="220" as="geometry" />
+          <mxGeometry x="120" y="365" width="120" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="NiUTvdazQKt3ztosBD5x-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="NiUTvdazQKt3ztosBD5x-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="NiUTvdazQKt3ztosBD5x-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="410" as="sourcePoint" />
-            <mxPoint x="440" y="360" as="targetPoint" />
+            <mxPoint x="140" y="560" as="sourcePoint" />
+            <mxPoint x="190" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
