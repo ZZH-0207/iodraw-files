@@ -158,8 +158,8 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NiUTvdazQKt3ztosBD5x-40" value="传播前渠道联审核" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NiUTvdazQKt3ztosBD5x-38">
-          <mxGeometry x="0.0095" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
