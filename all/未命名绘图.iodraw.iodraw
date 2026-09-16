@@ -110,6 +110,12 @@
         <mxCell id="NiUTvdazQKt3ztosBD5x-28" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=13;" vertex="1" parent="1">
           <mxGeometry x="790" y="469" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="NiUTvdazQKt3ztosBD5x-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="489" as="sourcePoint" />
+            <mxPoint x="760" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
