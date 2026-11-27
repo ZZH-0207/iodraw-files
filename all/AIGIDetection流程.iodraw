@@ -412,7 +412,7 @@
         <mxCell id="5Gk6gY4LlZvfnBmFPgYm-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5Gk6gY4LlZvfnBmFPgYm-20" target="5Gk6gY4LlZvfnBmFPgYm-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5Gk6gY4LlZvfnBmFPgYm-20" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;抽全部帧(可配置为抽样)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;verticalAlign=middle;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5Gk6gY4LlZvfnBmFPgYm-20" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;均匀抽帧（最多8帧）&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;verticalAlign=middle;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1392.23" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5Gk6gY4LlZvfnBmFPgYm-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5Gk6gY4LlZvfnBmFPgYm-22" target="5Gk6gY4LlZvfnBmFPgYm-25">
