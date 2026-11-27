@@ -414,6 +414,9 @@
         <mxCell id="5Gk6gY4LlZvfnBmFPgYm-40" value="OCR文字提取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1530.74" y="230" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="5Gk6gY4LlZvfnBmFPgYm-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5Gk6gY4LlZvfnBmFPgYm-41" target="5Gk6gY4LlZvfnBmFPgYm-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5Gk6gY4LlZvfnBmFPgYm-41" value="是否命中关键词" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1505" y="315" width="170" height="80" as="geometry" />
         </mxCell>
@@ -421,7 +424,7 @@
           <mxGeometry x="1360.74" y="601" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5Gk6gY4LlZvfnBmFPgYm-44" value="不告警" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1750" y="601" width="120" height="60" as="geometry" />
+          <mxGeometry x="1760" y="601" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
