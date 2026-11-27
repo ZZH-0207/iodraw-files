@@ -476,9 +476,6 @@
         <mxCell id="5Gk6gY4LlZvfnBmFPgYm-35" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1560.74" y="584" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5Gk6gY4LlZvfnBmFPgYm-37" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1540" y="300" width="60" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
