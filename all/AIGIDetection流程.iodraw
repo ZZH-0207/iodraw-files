@@ -468,6 +468,9 @@
         <mxCell id="5Gk6gY4LlZvfnBmFPgYm-51" value="增强后是否命中关键词" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1655.49" y="565" width="170" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="5Gk6gY4LlZvfnBmFPgYm-57" value="可能是提取的文字有缺失，如“图片由A生成”，调用大模型读文字" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1840" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
