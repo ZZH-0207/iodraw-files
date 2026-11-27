@@ -457,7 +457,7 @@
         </mxCell>
         <mxCell id="5Gk6gY4LlZvfnBmFPgYm-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5Gk6gY4LlZvfnBmFPgYm-51">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1900" y="810" as="targetPoint" />
+            <mxPoint x="1900" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5Gk6gY4LlZvfnBmFPgYm-56" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5Gk6gY4LlZvfnBmFPgYm-55">
