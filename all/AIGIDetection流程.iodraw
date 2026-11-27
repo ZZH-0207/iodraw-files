@@ -441,6 +441,9 @@
         <mxCell id="5Gk6gY4LlZvfnBmFPgYm-44" value="不告警" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2000" y="505" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="5Gk6gY4LlZvfnBmFPgYm-50" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1680" y="465" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
